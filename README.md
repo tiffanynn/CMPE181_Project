@@ -12,8 +12,13 @@ Our project is going to focus on object detection (also specializing in driver p
 
 
 **Tiffany:**
+1. Set up the Github repository for the team
 
 
 **Jia Cherng:**
 
+
+
 ## References
+1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922
+2. https://github.com/laishawadhwa/Vehicle-Number-plate-extraction/blob/master/README.md
