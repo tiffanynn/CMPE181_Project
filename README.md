@@ -8,8 +8,11 @@ Our project is going to focus on object detection (also specializing in driver p
 **Christine:**
 1. Researched reference materials
 2. Provided Installation packets for the project: 
+
    a. **OpenCV**: open-source machine learning library
+   
    b. **Pytesseract**: a Tesseract-OCR Engine to read image types and extract the information present in the image
+   
 4. Installed pip, OpenCV, and Pytesseract
 
 **Jennifer:**
