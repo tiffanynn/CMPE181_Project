@@ -15,13 +15,16 @@ Our project is going to focus on object detection (also specializing in driver p
    
    c. **Pytesseract**: a Tesseract-OCR Engine to read image types and extract the information present in the image
 
-4. Installed pip, OpenCV, and Pytesseract
+3. Installed pip, OpenCV, and Pytesseract
 
 **Jennifer:**
 
 
 **Tiffany:**
 1. Set up the Github repository for the team
+2. Also downloaded reference materials and tools that Christine found
+3. Have been playing around with the sample code so far 
+4. Planning to commit working code into the repository
 
 
 **Jia Cherng:**
@@ -38,7 +41,7 @@ Our project is going to focus on object detection (also specializing in driver p
 7. https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/
 
 
-## Installation Packets:
+## Installation Packets
 1. Pip: https://phoenixnap.com/kb/install-pip-windows
 2. Tesseract: https://pypi.org/project/pytesseract/
 3. OpenCV: https://pypi.org/project/opencv-python/
