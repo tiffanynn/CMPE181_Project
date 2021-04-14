@@ -28,8 +28,10 @@ Our project is going to focus on object detection (also specializing in driver p
 
 
 **Jia Cherng:**
-
-
+1. Researching the fundamentals of object detection
+2. Reading github references and browsing sample code
+3. Installed required installation packets
+4. Discussing future work plans and schedule with team members.
 
 ## References
 1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922
