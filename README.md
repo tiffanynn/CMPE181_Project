@@ -7,7 +7,8 @@ Our project is going to focus on object detection (also specializing in driver p
 ## Individual Contributions
 **Christine:**
 1. Researched reference materials
-2. Provided Installation packets for the project: 
+2. Browsed through multiple sample code
+3. Provided Installation packets for the project: 
 
    a. **Pip**
    
@@ -15,7 +16,8 @@ Our project is going to focus on object detection (also specializing in driver p
    
    c. **Pytesseract**: a Tesseract-OCR Engine to read image types and extract the information present in the image
 
-3. Installed pip, OpenCV, and Pytesseract
+4. Installed pip, OpenCV, and Pytesseract
+5. In the process of running more code examples
 
 **Jennifer:**
 
