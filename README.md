@@ -7,7 +7,10 @@ Our project is going to focus on object detection (also specializing in driver p
 ## Individual Contributions
 **Christine:**
 1. Researched reference materials
-
+2. Provided Installation packets for the project: 
+   a. **OpenCV**: open-source machine learning library
+   b. **Pytesseract**: a Tesseract-OCR Engine to read image types and extract the information present in the image
+4. Installed pip, OpenCV, and Pytesseract
 
 **Jennifer:**
 
@@ -28,3 +31,9 @@ Our project is going to focus on object detection (also specializing in driver p
 5. https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
 6. https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/
 7. https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/
+
+
+## Installation Packets:
+1. Pip: https://phoenixnap.com/kb/install-pip-windows
+2. Tesseract: https://pypi.org/project/pytesseract/
+3. OpenCV: https://pypi.org/project/opencv-python/
