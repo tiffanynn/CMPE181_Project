@@ -20,7 +20,9 @@ Our project is going to focus on object detection (also specializing in driver p
 5. In the process of running more code examples
 
 **Jennifer:**
-
+1. Researched object detection and ran an object source code
+2. Researching license plate recogniton and provided Reference #1
+3. Plan to experiment with sample codes and discuss with team the direction of this project
 
 **Tiffany:**
 1. Set up the Github repository for the team
