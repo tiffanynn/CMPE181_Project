@@ -38,13 +38,7 @@ Our project is going to focus on object detection (also specializing in driver p
 4. Discussing future work plans and schedule with team members.
 
 ## References
-1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922
-2. https://github.com/laishawadhwa/Vehicle-Number-plate-extraction/blob/master/README.md
-3. https://github.com/stevefielding/tensorflow-anpr
-4. https://medium.com/programming-fever/license-plate-recognition-using-opencv-python-7611f85cdd6c
-5. https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
-6. https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/
-7. https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/
+1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-
 
 
 ## Installation Packets
