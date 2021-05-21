@@ -38,7 +38,7 @@ Our project is going to focus on object detection (also specializing in driver p
 4. Discussing future work plans and schedule with team members.
 
 ## References
-1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-
+1. https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922
 
 
 ## Installation Packets
