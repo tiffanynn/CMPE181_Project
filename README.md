@@ -21,7 +21,7 @@ Our project is going to focus on object detection (also specializing in driver p
 
 **Jennifer:**
 1. Researched object detection and ran an object source code
-2. Researching license plate recogniton and provided Reference #1
+2. Researching license plate recognition and provided Reference #1
 3. Plan to experiment with sample codes and discuss with team the direction of this project
 
 **Tiffany:**
